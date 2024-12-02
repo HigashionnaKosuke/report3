@@ -1,7 +1,5 @@
 package jp.ac.uryukyu.ie.e245713;
 
-//import org.checkerframework.checker.units.qual.m;
-
 /**
  * 敵クラス。
  *  String name; //敵の名前
